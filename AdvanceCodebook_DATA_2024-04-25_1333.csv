@@ -1,0 +1,21 @@
+id,codefeature,codevalue,codelabel,codebook_complete
+1,marital,1,Married,2
+2,marital,2,"Divorced or permanently separated",2
+3,marital,3,Single,2
+4,marital,4,"Not married, but living with a partner (cohabitating)",2
+5,marital,5,"Never married",2
+6,marital,6,Widowed,2
+7,education,1,"Primary Education",2
+8,education,2,"Secondary Education",2
+9,education,3,"Tertiary Education",2
+10,education,4,"Vocational Education",2
+11,occupation,1,"Salaried worker",2
+12,occupation,2,"Small business",2
+13,occupation,3,"Business owner",2
+14,occupation,4,"Skilled labor",2
+15,occupation,6,"Subsistence farming",2
+16,occupation,77,"Not applicable/Not working",2
+17,occupation,7,"Commercial farming",2
+18,occupation,8,Fishing,2
+19,occupation,9,Housewife,2
+20,occupation,5,"Unskilled labor",2
